@@ -378,7 +378,7 @@ export default {
     };
   },
   created() {
-    document.title = "Subscription Converter";
+    document.title = "俊樹 | SubWeb";
     this.isPC = this.$getOS().isPc;
 
     // 获取 url cache
